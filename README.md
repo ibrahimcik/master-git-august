@@ -1,15 +1,3 @@
-# master-git-august 
-## header2
-Allah'ina Gurban
-### header3
-Alem bana , ben sie hasta !
-
-=============
-Hooops 
-
-Row2
-Row 3
-
-	
-Heading level 1
-===============
+# This is our first repo
+## We created a task
+- script sh
